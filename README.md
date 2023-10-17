@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alena
 
-I'm a software engineer from Seattle. Experienced in Ruby on Rails, React, and JavaScript frameworks and with a background in Marketing Analysis. Possess strong skills in programming, data analysis, and project management. Transitioned to software engineering to create user-friendly and data-driven apps.
+I'm a software engineer from New York. Experienced in mobile and full-stack development. Ruby on Rails, React, and JavaScript frameworks and with a background in Marketing Analysis. Possess strong skills in programming, data analysis, and project management. Transitioned to software engineering to create user-friendly and data-driven apps.
 
 - 🌱 I’m currently diving deeper in React and JavaScript
 - 👯 I’m looking to collaborate on any project
@@ -8,7 +8,11 @@ I'm a software engineer from Seattle. Experienced in Ruby on Rails, React, and J
 - 📝 Find my technical blog on [Medium](https://alenatrushnikova.medium.com/)
 - 📫 How to reach me: alena.yu.t@gmail.com
 
-Technical Skills: Ruby | Ruby on Rails | ActiveRecord | JavaScript | React | Redux | SQL | HTML | CSS | Bootstrap | Git | JSON & REST-based APIs | RubyMine IDE | VS Code
+**Languages:** JavaScript, TypeScript, SQL, Ruby, HTML, CSS  
+**Frameworks & Libraries:** React, React Native, Redux, Node.JS, Ruby on Rails, ActiveRecord, JSON & REST APIs  
+**Databases:** MongoDB, MySQL  
+**Tools & Platforms:** Git, GitHub, Postman, Docker, AWS, Heroku, Figma (UI/UX Design), JIRA  
+**Project Management and Collaboration:** Feature leading, Sprint Planning, Daily Stand-Ups, Retrospectives, Front-End and Back-End Guild Meetings, Code Reviews  
 
 ## 💻 Project Highlights 
 
