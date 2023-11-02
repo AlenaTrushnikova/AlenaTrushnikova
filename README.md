@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Alena
 
-I'm a software engineer from New York. Experienced in mobile and full-stack development. Ruby on Rails, React, and JavaScript frameworks and with a background in Marketing Analysis. Possess strong skills in programming, data analysis, and project management. Transitioned to software engineering to create user-friendly and data-driven apps.
+I'm a software engineer from New York. Experienced in mobile and full-stack development. React, React Native, JavaScript, and TypeScript frameworks and with a background in Data Analysis. Possess strong skills in programming, data analysis, and project management. Demonstrated ability to lead project initiatives, collaborate with cross-functional teams, and consistently deliver user-centric solutions. Proficient in agile methodologies, design collaboration, and enhancing product performance. My passion is working on user-friendly and data-driven apps.
 
-- 🌱 I’m currently diving deeper in React and JavaScript
+- 📱 I have a strong proficiency in Mobile Development and Full-stack Development
 - 👯 I’m looking to collaborate on any project
 - 👩‍💻 My [LinkedIn](https://www.linkedin.com/in/alenatrushnikova/) for professional connections  
 - 📝 Find my technical blog on [Medium](https://alenatrushnikova.medium.com/)
